@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ivan Dugalic
 
 <!--
 **idugalic/idugalic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Solutions architect with significant experience in designing full stack application components and providing guidance to the solution teams in development and implementation. Skilled in a wide variety of technology stacks and learning quickly new technologies as needed. Experience covers all facets of design patterns, software architecture, continuous delivery, agile methodologies and best practices in constructing solutions that remain scalable, adaptable and replicable. Strong engineering professional with the Master of Science (MSc) focused on Computer Science from the University of Belgrade, Faculty of Mathematics. 
