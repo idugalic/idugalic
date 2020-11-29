@@ -21,6 +21,7 @@ Solutions architect with significant experience in designing full stack applicat
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=idugalic&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Ivan+Dugalic's+GitHub+Stats&show_icons=true" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idugalic"/>
 ---
 
 <p>
