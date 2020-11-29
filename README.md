@@ -30,13 +30,7 @@ Solutions architect with significant experience in designing full stack applicat
   <a href="https://www.linkedin.com/in/idugalic/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-   <a href="https://idugalic.medium.com/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=medium&logoColor=white&style=for-the-badge" />
-  </a>
 </p>
 
----
 
 I write a tech blog [idugalic.github.io](https://idugalic.github.io/).
-
----
