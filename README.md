@@ -36,5 +36,9 @@ Solutions architect with significant experience in designing full stack applicat
   </a>
 </p>
 
+Owner of [Fraktalio](https://fraktalio.com/) company - Delivering modern software solutions using best-practices, helping your business grow and make an impact
 
-I write a tech blog [idugalic.github.io](https://idugalic.github.io/).
+Founder of [`FModel`](https://fraktalio.github.io/fmodel) - An open source [Kotlin](https://kotlinlang.org/) library that provides just enough tactical Domain-Driven Design patterns, optimised for Event Sourcing and CQRS
+
+Solutions architect at [AxonIQ](https://axoniq.io/) - Offers an end-to-end development and infrastructure platform for smoothly evolving Event-Driven Microservices focused on CQRS and Event Sourcing
+
